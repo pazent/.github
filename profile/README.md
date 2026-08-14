@@ -7,6 +7,7 @@
 Open-source tools that turn offensive security evidence into defensive controls.
 
 [![ExploitSpec](https://img.shields.io/badge/ExploitSpec-RED%20%E2%86%92%20GREEN%20%E2%86%92%20STABLE-3fd0d4?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/pazent/exploitspec)
+[![GitHub Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-Install-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/exploitspec-security-regression-tests)
 [![Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-c8a96b?style=for-the-badge)](https://github.com/pazent/exploitspec/blob/main/LICENSE)
 
 </div>
@@ -39,6 +40,7 @@ We care about narrow security promises, reproducible evidence, deterministic
 tests, conservative handling of secrets, and honest documentation of limits.
 
 - [Read the specification](https://github.com/pazent/exploitspec/blob/main/docs/specification.md)
+- [Install the GitHub Action](https://github.com/marketplace/actions/exploitspec-security-regression-tests)
 - [See the roadmap](https://github.com/pazent/exploitspec/blob/main/ROADMAP.md)
 - [Propose an idea](https://github.com/pazent/exploitspec/discussions/categories/ideas)
 - [Contribute](https://github.com/pazent/exploitspec/blob/main/CONTRIBUTING.md)
