@@ -47,4 +47,5 @@ tests, conservative handling of secrets, and honest documentation of limits.
 - [Propose an idea](https://github.com/pazent/exploitspec/discussions/categories/ideas)
 - [Contribute](https://github.com/pazent/exploitspec/blob/main/CONTRIBUTING.md)
 
-Maintained by [Pazent](https://github.com/Pazificateur69).
+Maintained by [Alessandro](https://www.linkedin.com/in/alessandro-cyber/) ·
+[GitHub](https://github.com/Pazificateur69).
