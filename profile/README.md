@@ -41,6 +41,8 @@ tests, conservative handling of secrets, and honest documentation of limits.
 
 - [Read the specification](https://github.com/pazent/exploitspec/blob/main/docs/specification.md)
 - [Install the GitHub Action](https://github.com/marketplace/actions/exploitspec-security-regression-tests)
+- [Fork the passing consumer template](https://github.com/pazent/exploitspec-demo)
+- [Read the BOLA/IDOR case study](https://github.com/pazent/exploitspec/discussions/8)
 - [See the roadmap](https://github.com/pazent/exploitspec/blob/main/ROADMAP.md)
 - [Propose an idea](https://github.com/pazent/exploitspec/discussions/categories/ideas)
 - [Contribute](https://github.com/pazent/exploitspec/blob/main/CONTRIBUTING.md)
